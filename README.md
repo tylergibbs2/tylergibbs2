@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/tyler-gibbs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-## Favorite Tech Blogs
+## Favorite Tech Blogs (in no particular order)
 
 - https://simonwillison.net/
 - https://rachelbythebay.com/w/
@@ -15,4 +15,3 @@
 - https://neal.fun/
 - https://shkspr.mobi/blog/
 
-Some of my go-to reads for staying current with tech.
