@@ -8,10 +8,11 @@
 
 ## Favorite Tech Blogs
 
-| | |
-|---|---|
-| https://simonwillison.net/ | https://rachelbythebay.com/w/ |
-| https://daniel.haxx.se/blog/ | https://justine.lol/ |
-| https://neal.fun/ | https://shkspr.mobi/blog/ |
+- https://simonwillison.net/
+- https://rachelbythebay.com/w/
+- https://daniel.haxx.se/blog/
+- https://justine.lol/
+- https://neal.fun/
+- https://shkspr.mobi/blog/
 
 Some of my go-to reads for staying current with tech.
